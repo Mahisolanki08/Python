@@ -1,0 +1,7 @@
+t = (23,56,78,90,128)
+print(min(t))
+print(max(t))
+print(t.count(128))
+print(t.index(78))
+print(sum(t,5))
+print(sum(t))
